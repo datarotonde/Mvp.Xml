@@ -11,7 +11,7 @@ namespace Mvp.Xml.Exslt;
 /// <summary>
 ///   This class implements the EXSLT functions in the http://exslt.org/sets namespace.
 /// </summary>			
-public class ExsltSets
+public partial class ExsltSets
 {
     /// <summary>
     /// Implements the following function 

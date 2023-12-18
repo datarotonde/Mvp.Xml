@@ -10,7 +10,7 @@ namespace Mvp.Xml.Exslt;
 /// <summary>
 /// Implements the functions in the http://exslt.org/strings namespace 
 /// </summary>
-public class ExsltStrings
+public partial class ExsltStrings
 {
     static readonly char[] hexdigit = { '0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F' };
 

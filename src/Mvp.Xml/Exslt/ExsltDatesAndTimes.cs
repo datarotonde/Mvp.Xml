@@ -11,7 +11,7 @@ namespace Mvp.Xml.Exslt;
 /// <summary>
 /// This class implements the EXSLT functions in the http://exslt.org/dates-and-times namespace.
 /// </summary>
-public class ExsltDatesAndTimes
+public partial class ExsltDatesAndTimes
 {
     //private CultureInfo ci = new CultureInfo("en-US");
 
